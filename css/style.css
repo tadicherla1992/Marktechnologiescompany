@@ -791,6 +791,9 @@ body {
     margin-bottom: 50px;
   }
 }
-.whatsapp-link:hover{
-  
+/* Added styles for marquee */
+marquee {
+  color: #070707; /* Blue color */
+  /* text-decoration: underline; */
+  white-space: nowrap;
 }
